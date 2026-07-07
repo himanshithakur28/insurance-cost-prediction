@@ -48,7 +48,7 @@ The regression models were evaluated using:
 The trained models were compared based on their performance to identify the model that provides better prediction accuracy.
 
 ## Project Structure
-Insurance_Cost_Prediction.ipynb
+Insurance_project.ipynb
 
 
 ## Future Improvements
